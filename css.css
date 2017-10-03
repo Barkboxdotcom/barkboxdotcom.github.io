@@ -1,11 +1,11 @@
 body{
 	
-font-family: "Helvetica", "Arial", fantasy;
+font-family: "God of War", "Black Chancery", fantasy;
 	
-color: #AAFF00;
-	background-color: #ADD3F9;
+color: #590059;
+	background-color: #800000;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #49536D;
 	text-align: center;
 
 }
@@ -18,7 +18,7 @@ font-size: 2.6em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #49536D;
 
 }
 
@@ -37,6 +37,6 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #800000;
 
 }
